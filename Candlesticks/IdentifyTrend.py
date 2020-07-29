@@ -1,4 +1,4 @@
-from Candlestick import Candlestick
+from Candlesticks.Candlestick import Candlestick
 #black == red, white == green
 # open, close, low, high
 
